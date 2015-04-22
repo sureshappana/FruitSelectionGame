@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Selection Game</string>
+    <string name="focusLabel">Find All</string>
+    <string name="action_settings">Settings</string>
+    <string name="resetBtn">Reset</string>
+    <string name="exitBtn">Exit</string>
+    <string name="reset">Reset</string>
+    <string name="ok">OK</string>
+    <string name="newgame">New Game</string>
+    <string name="successMessage">Congratulations!! You have found all the</string>
+    <string name="errorMessage">Wrong Fruit Selected!! Game Ended</string>
+    <string name="successMessageHeading">Found All Shapes</string>
+    <string name="allSelectedWarningMessage">You have already selected all fruits/vegetables. Click reset or exit</string>
+
+</resources>
